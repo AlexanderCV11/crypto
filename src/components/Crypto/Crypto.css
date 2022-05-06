@@ -1,0 +1,30 @@
+/* button {
+    background-color: yellow;
+    border: none;
+    color: yellowgreen;
+    padding: 16px 32px; 
+    padding: 16px 24px; 
+    font-size: 20px;
+    font-weight: bold;
+    margin: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 120px; 
+    width: 140px; 
+    
+} */
+
+input {
+    background-color: yellow;
+    border-radius: 8px;
+    color: green;
+    text-align: center;
+    width: 40px;
+    height: 20px;
+}
+
+.titulo {
+    font-size: 50px;
+    
+
+}
